@@ -1,0 +1,33 @@
+input {
+  width: 30%;
+  height: 25px;
+  margin: 10px;
+}
+span {
+  margin-left: 20%;
+}
+.btnTask2 {
+  padding: 15px 30px;
+  margin-left: 20%;
+  margin-top: 2%;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-size: large;
+  cursor: pointer;
+}
+.displayT {
+  margin-left: 20%;
+  margin-top: 4%;
+}
+table {
+  border: 1px solid black;
+  margin-bottom: 5%;
+}
+th {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+}
